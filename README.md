@@ -14,7 +14,6 @@ This project is a Sudoku solver implemented in Java. It reads an unsolved Sudoku
 1. Clone the repository:
     ```sh
     git clone https://github.com/yourusername/sudoku-solver.git
-    cd sudoku-solver
     ```
 
 2. Ensure you have Java installed on your system.
